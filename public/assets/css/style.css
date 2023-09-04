@@ -1,0 +1,42 @@
+* { box-sizing: border-box;  }
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.super-hero {
+  border: 2px solid black;
+  border-radius: 3%;
+}
+
+.photo-super-hero {
+   object-fit: contain;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.super-rich {
+  border: 1px solid black;
+}
+.super-marteau {
+  border: 1px solid black;
+}
+.super-american {
+  border: 1px solid black;
+}
+.super-nana {
+  border: 1px solid black;
+}
+.super-griffant {
+  border: 1px solid black;
+}
+.super-chauve {
+  border: 1px solid black;
+}
+.super-light {
+  border: 1px solid black;
+}
